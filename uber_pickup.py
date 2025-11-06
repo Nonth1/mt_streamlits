@@ -40,4 +40,5 @@ st.subheader(f'Map of all pickups at {hour_to_filter}:00')
 st.map(filtered_data)
 
 
-st.write(data['base'].nunique())
+#st.write(data['base'].nunique())
+
